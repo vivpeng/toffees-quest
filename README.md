@@ -4,10 +4,6 @@ Names: Arya Afsheen and Vivian Peng
 
 Date: Thursday, January 18, 2023
 
-Class: ICS3U7
-
-Teacher: Ms. Strelkovska
-
 Program Name: Toffee’s Quest
 
 Purpose of program
